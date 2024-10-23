@@ -30,14 +30,6 @@ dataset/
         └───test/   # Test images
 
 
-## Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/pneumonia-detection.git
-cd pneumonia-detection
-
-
 ## Install the dependencies:
 
 pip install -r requirements.txt
