@@ -1,4 +1,4 @@
-## Pneumonia Detection using CNN and MLflow
+## Pneumonia Detection using CNN with PyTorch and MLflow
 This repository contains a Convolutional Neural Network (CNN) model to detect pneumonia from chest X-ray images. The model is built using PyTorch, and MLflow is utilized to track the training process, hyperparameters, and metrics.
 
 ## Project Overview
